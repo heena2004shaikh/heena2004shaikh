@@ -13,7 +13,7 @@ Full Stack Developer and Data Researcher with expertise in building scalable web
 ## 🏢 Experience
 
 ### **Bizprospex, Burhanpur, MP**  
-**Competitive Intelligence Specialist & Data Services Consultant** | *February 2025 – Present*  
+**Competitive Intelligence Specialist & Data Services Consultant** | *February 2024*  
 - Conducted deep-dive competitive research and market analysis to uncover actionable B2B insights.  
 - Leveraged tools like **LinkedIn Sales Navigator**, **Salesforce**, and **HubSpot CRM** for data-driven prospecting.  
 - Created detailed competitor profiles to support sales and marketing in go-to-market (GTM) strategies.  
